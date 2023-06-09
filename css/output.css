@@ -550,6 +550,14 @@ video {
   height: 100vh;
 }
 
+.h-3 {
+  height: 0.75rem;
+}
+
+.h-0 {
+  height: 0px;
+}
+
 .w-2\/4 {
   width: 50%;
 }
