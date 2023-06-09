@@ -2,7 +2,6 @@ let screen_text = document.querySelector("#screen_text");
 const buttons = document.querySelectorAll("button");
 
 let a = 0;
-let b = 0;
 let dot = '.'
 
 buttons.forEach(b => b.onclick = e => 
